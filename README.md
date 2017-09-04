@@ -1,2 +1,2 @@
-# about.github.io
+# http://about.github.io
 about
